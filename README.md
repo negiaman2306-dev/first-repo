@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Aman Singh Negi]
 
 ### 📊 Data Analyst & Business Intelligence Enthusiast
 
@@ -8,8 +8,8 @@ I turn complex, messy datasets into clear, actionable insights that drive busine
 
 ## 🛠️ Technical Skills
 
-* **Languages & Querying:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL, BigQuery), R, DAX
-* **Data Visualization & BI:** Tableau, Power BI, Looker, Matplotlib, Seaborn
+* **Languages & Querying:** Python (Pandas, NumPy), SQL (PostgreSQL, MySQL), R, DAX
+* **Data Visualization & BI:** Tableau, Power BI, Matplotlib, Seaborn
 * **Databases & Cloud:** Snowflake, AWS (S3, RDS), Google Cloud Platform, SQLite
 * **Tools & Workflow:** Git/GitHub, Jupyter Notebooks, Excel (VBA, Power Query), Airflow, Docker
 
@@ -17,39 +17,30 @@ I turn complex, messy datasets into clear, actionable insights that drive busine
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name 1: e.g., E-Commerce Sales & Customer Segmentation Analysis]
-* **Description:** Analyzed 500K+ transaction records to identify purchasing trends, customer churn risk, and high-value segments. Built an interactive Power BI dashboard to track KPIs in real-time.
-* **Tech Stack:** Python, Pandas, SQL, Power BI
-* **Key Insights:** Identified a 15% drop in repeat purchases in Q3 and recommended a targeted email campaign that recovered ~$45K in potential revenue.
-* 🔗 [View Project Repository](https://github.com/yourusername/project-repo-1) | 📊 [Live Dashboard/Demo](https://link-to-demo.com)
+### 1. CAR SALES DASHBOARD
+* **Description:** Built a car sales Dashboard in Tableau analyzing 1,000 customers (₹1.48B revenue). Found toyota has highest sales, SUV dominates body style, and Loan/UPI are preferred payments.
+* **Tech Stack:** Tableau, Excel
+* **Key Insights:** HIGH: Toyota leads sales (₹55M), SUV dominates category(-54% of total price).
+LOW: Maruti Suzuki lowest performer, 1.2L engine segment underperforming.
+* <img src="car sales dashboard.jpeg" width="300">
 
-### 2. [Project Name 2: e.g., Predictive Churn Model for Subscription Services]
-* **Description:** Developed an end-to-end churn prediction pipeline using logistic regression and random forest models to flag at-risk subscribers.
-* **Tech Stack:** Python (Scikit-Learn, XGBoost), PostgreSQL, Tableau
-* **Key Insights:** Achieved an AUC-ROC score of 0.84, allowing the customer success team to proactively intervene with high-risk accounts.
-* 🔗 [View Project Repository](https://github.com/yourusername/project-repo-2)
+### 2. GLOBAL EV DASHBOARD
+* **Description:**  Urban users lead travel distance, home charging availability drops sharply acting as adorption barrier, government incentive awarness is low despite 65K+ environmentally aware users.
+* **Tech Stack:** Advanced Excel, Pivot Tables, Power Query , Slicers, Dashboard Design.
+* **Key Insights:** Urban leads EV travel, home charging drop is key barrier, incentive awarness low despite high environmental awarness.
+* <img src="newglobalev.jpeg" width="400">
 
----
+### 3. INSTAGRAM DASHBOARD
+* **Description:** This Dashboard tracks Instagram creator performance across 5 KPIs:2M likes, 16M views, 15736066 virality tier(Goal:1.80K), 992.9 sec total video duration, and 1.87K virality score.
+* **Tech Stack:** Power BI, Power Query, Excel
+* **Key Insights:** With 16M views and 9992.9 sec total watch time, techurner dominates video duration but beerbiceps wins on engagement. The real growth driver is hashtag kabitaskitchen(92%) and niche Fitness & Lifestyle at 45.71%.
+* <img src="NEW PHOTO.jpeg" width="400">
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📜 Certifications & Education
-
-* **[Certification Name, e.g., Google Data Analytics Professional Certificate]** — Issued by Coursera ([Verify Link](#))
-* **[Degree Name, e.g., B.S. in Statistics / Economics / Computer Science]** — [University Name] ([Year])
 
 ---
+
 
 ## 📬 Connect with Me
 
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-* **Email:** your.email@example.com
-* **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
-* **Medium / Substack (Data Blogs):** [Link to your blog articles]
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/aman-negi-206804297?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **Email:** negi.aman2306@gmail.com
