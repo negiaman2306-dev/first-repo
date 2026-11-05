@@ -28,7 +28,7 @@ LOW: Maruti Suzuki lowest performer, 1.2L engine segment underperforming.
 * **Description:**  Urban users lead travel distance, home charging availability drops sharply acting as adorption barrier, government incentive awarness is low despite 65K+ environmentally aware users.
 * **Tech Stack:** Advanced Excel, Pivot Tables, Power Query , Slicers, Dashboard Design.
 * **Key Insights:** Urban leads EV travel, home charging drop is key barrier, incentive awarness low despite high environmental awarness.
-* <img src="newglobalev.jpeg" width="400">
+* <img src="global ev.jpeg" width="400">
 
 ### 3. INSTAGRAM DASHBOARD
 * **Description:** This Dashboard tracks Instagram creator performance across 5 KPIs:2M likes, 16M views, 15736066 virality tier(Goal:1.80K), 992.9 sec total video duration, and 1.87K virality score.
